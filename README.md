@@ -10,3 +10,12 @@
 
 ![Some stats](https://github-readme-stats.vercel.app/api?username=SirusCodes&show_icons=true&include_all_commits=true)
 ![Some stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SirusCodes&layout=compact)
+
+#### Contact me at 👇
+<a href="https://www.linkedin.com/in/darshan-rander-b28a3b193/">
+  <img align="left" alt="LindedIn" width="40px" src="/images/LinkedIn_Logo.png?raw=true" />
+</a>
+
+<a href="https://twitter.com/SirusTweets">
+  <img align="left" alt="Twitter" width="35px" src="/images/Twitter_Social_Icon_Circle_Color.png?raw=true" />
+</a>
