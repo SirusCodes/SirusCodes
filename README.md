@@ -1,7 +1,7 @@
 ### Hi there, I'm [Darshan](https://siruscodes.github.io/Portfolio)
 #### ❤ A Proud member of [CodeVengers](https://github.com/CodeVengersTeam)
 
-- 🔭 I’m currently working on [morphing_text (Flutter pugin)](https://github.com/SirusCodes/morphing_text) 
+- 🔭 I’m currently working on [morphing_text (Flutter plugin)](https://github.com/SirusCodes/morphing_text) 
 - 🌱 I’m currently learning Django and Flutter
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with Django
