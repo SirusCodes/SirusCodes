@@ -1,5 +1,5 @@
 ### Hi there, I'm [Darshan](https://siruscodes.github.io/Portfolio)
-#### ❤ A Proud member of [CodeVengers](https://github.com/realcodevengers)
+#### ❤ A Proud member of [CodeVengers](https://github.com/CodeVengersTeam)
 
 - 🔭 I’m currently working on [morphing_text (Flutter pugin)](https://github.com/SirusCodes/morphing_text) 
 - 🌱 I’m currently learning Django and Flutter
