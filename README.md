@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with Django
 - 💬 Ask me about anything
-- ⚡ Fun fact: I also like to write, you can see my work at [heatry_poems](https://www.instagram.com/heartry_poems/)
+- ⚡ Fun fact: I also like to write, you can see my work at [heartry_poems](https://www.instagram.com/heartry_poems/)
 
 ![Some stats](https://github-readme-stats.vercel.app/api?username=SirusCodes&show_icons=true&include_all_commits=true)
 ![Some stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SirusCodes&layout=compact)
