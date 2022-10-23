@@ -1,10 +1,8 @@
-### Hi there, I'm [Darshan](https://siruscodes.github.io/Portfolio)
-#### ❤ A Proud member of [CodeVengers](https://github.com/CodeVengersTeam)
+### Hi there, I'm [Darshan](https://darshanrander.com)
+#### Organiser of [Our Tech Community](https://ourtech.community) ❤️
 
-- 🔭 I’m currently working on [morphing_text (Flutter plugin)](https://github.com/SirusCodes/morphing_text) 
-- 🌱 I’m currently learning Django and Flutter
-- 👯 I’m looking to collaborate on Flutter
-- 🤔 I’m looking for help with Django
+- 🔭 I’m currently working on improving myself
+- 🌱 I’m currently learning about life
 - 💬 Ask me about anything
 - ⚡ Fun fact: I also like to write, you can see my work at [heartry_poems](https://www.instagram.com/heartry_poems/)
 
@@ -12,7 +10,7 @@
 ![Some stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SirusCodes&layout=compact)
 
 #### Contact me at 👇
-<a href="https://www.linkedin.com/in/darshan-rander-b28a3b193/">
+<a href="https://www.linkedin.com/in/darshan-rander/">
   <img align="left" alt="LindedIn" width="40px" src="/images/LinkedIn_Logo.png?raw=true" />
 </a>
 
